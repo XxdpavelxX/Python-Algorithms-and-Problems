@@ -1,0 +1,5 @@
+import re
+try:
+  text.find('z')
+except:
+  raise Exception("Yolo")
